@@ -3,7 +3,7 @@ Version:	45245
 Release:	2
 Summary:	Fetch the current class name
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fetchcls
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fetchcls
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fetchcls.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fetchcls.doc.r%{version}.tar.xz
